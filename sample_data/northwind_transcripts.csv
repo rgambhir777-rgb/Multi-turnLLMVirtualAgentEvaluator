@@ -1,0 +1,1317 @@
+transcript_id,channel,turn_index,speaker,text
+NW-T0137,email,0,customer,I need to change my login password.
+NW-T0137,email,1,agent,The account unlocks after 30 minutes.
+NW-T0137,email,2,customer,OK I'll try the reset link.
+NW-T0137,email,3,agent,The code is valid for 10 minutes.
+NW-T0137,email,4,customer,"Thanks, it worked."
+NW-T0137,email,5,agent,The account unlocks after 30 minutes.
+NW-T0036,chat,0,customer,Can you explain the router rental charge on my bill?
+NW-T0036,chat,1,agent,Let me look at your bill.
+NW-T0036,chat,2,customer,"OK, please enroll me in autopay."
+NW-T0036,chat,3,agent,I've opened a dispute for you.
+NW-T0141,sms,0,customer,My account is locked after too many attempts.
+NW-T0141,sms,1,agent,The account unlocks after 30 minutes.
+NW-T0141,sms,2,customer,OK I'll try the reset link.
+NW-T0141,sms,3,agent,The account unlocks after 30 minutes.
+NW-T0141,sms,4,customer,"Thanks, it worked."
+NW-T0141,sms,5,agent,The account unlocks after 30 minutes.
+NW-T0076,voice,0,customer,I want to upgrade my internet plan.
+NW-T0076,voice,1,agent,Upgrades are free and start next billing cycle.
+NW-T0076,voice,2,customer,"Yes, go ahead with the change."
+NW-T0076,voice,3,agent,Upgrades are free and start next billing cycle.
+NW-T0076,voice,4,customer,When does the new plan start?
+NW-T0076,voice,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0076,voice,6,customer,My account is NW-273597.
+NW-T0076,voice,7,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0029,sms,0,customer,I want to dispute a charge on my last bill.
+NW-T0029,sms,1,agent,I can see a router rental and a late payment fee.
+NW-T0029,sms,2,customer,My account number is NW-707924.
+NW-T0029,sms,3,agent,I can see a router rental and a late payment fee.
+NW-T0029,sms,4,customer,Will I get a late fee meanwhile?
+NW-T0029,sms,5,agent,I can see a router rental and a late payment fee.
+NW-T0029,sms,6,customer,Can you open a dispute?
+NW-T0029,sms,7,agent,I can see a router rental and a late payment fee.
+NW-T0124,chat,0,customer,I can't sign in to the app.
+NW-T0124,chat,1,agent,The account unlocks after 30 minutes.
+NW-T0124,chat,2,customer,"Thanks, it worked."
+NW-T0124,chat,3,agent,The code is valid for 10 minutes.
+NW-T0124,chat,4,customer,I didn't get the SMS code.
+NW-T0124,chat,5,agent,The account unlocks after 30 minutes.
+NW-T0124,chat,6,customer,How long until it unlocks?
+NW-T0124,chat,7,agent,The code is valid for 10 minutes.
+NW-T0135,chat,0,customer,Sign in keeps failing on the website.
+NW-T0135,chat,1,agent,You can reset it at northwind.example/reset.
+NW-T0135,chat,2,customer,I didn't get the SMS code.
+NW-T0135,chat,3,agent,The code is valid for 10 minutes.
+NW-T0135,chat,4,customer,OK I'll try the reset link.
+NW-T0135,chat,5,agent,You can reset it at northwind.example/reset.
+NW-T0135,chat,6,customer,How long until it unlocks?
+NW-T0135,chat,7,agent,You can reset it at northwind.example/reset.
+NW-T0172,email,0,customer,Cancel my internet service please.
+NW-T0172,email,1,agent,I can help with that.
+NW-T0172,email,2,customer,When does service stop?
+NW-T0172,email,3,agent,A $150 fee applies within the 12-month term.
+NW-T0160,chat,0,customer,What happens to the router if I cancel?
+NW-T0160,chat,1,agent,Please return the router within 30 days.
+NW-T0160,chat,2,customer,Account NW-653694.
+NW-T0160,chat,3,agent,Please return the router within 30 days.
+NW-T0117,sms,0,customer,Is the network down near ZIP 30301?
+NW-T0117,sms,1,agent,I ran a line test and found a fault.
+NW-T0117,sms,2,customer,Will I get a credit?
+NW-T0117,sms,3,agent,Let me check for outages in your area.
+NW-T0071,voice,0,customer,What faster plans do you have?
+NW-T0071,voice,1,agent,Upgrades are free and start next billing cycle.
+NW-T0071,voice,2,customer,"Yes, go ahead with the change."
+NW-T0071,voice,3,agent,"Done, your plan is updated."
+NW-T0050,voice,0,customer,Can I switch to the Fiber 500 plan?
+NW-T0050,voice,1,agent,Upgrades are free and start next billing cycle.
+NW-T0050,voice,2,customer,My account is NW-749144.
+NW-T0050,voice,3,agent,Upgrades are free and start next billing cycle.
+NW-T0050,voice,4,customer,"Yes, go ahead with the change."
+NW-T0050,voice,5,agent,"Done, your plan is updated."
+NW-T0050,voice,6,customer,When does the new plan start?
+NW-T0050,voice,7,agent,Upgrades are free and start next billing cycle.
+NW-T0030,chat,0,customer,What is this $8 fee on my statement?
+NW-T0030,chat,1,agent,I can see a router rental and a late payment fee.
+NW-T0030,chat,2,customer,Can you open a dispute?
+NW-T0030,chat,3,agent,I've opened a dispute for you.
+NW-T0065,chat,0,customer,I want to upgrade my internet plan.
+NW-T0065,chat,1,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0065,chat,2,customer,"Yes, go ahead with the change."
+NW-T0065,chat,3,agent,"Done, your plan is updated."
+NW-T0065,chat,4,customer,When does the new plan start?
+NW-T0065,chat,5,agent,"Done, your plan is updated."
+NW-T0065,chat,6,customer,My account is NW-234336.
+NW-T0065,chat,7,agent,"Done, your plan is updated."
+NW-T0062,chat,0,customer,What faster plans do you have?
+NW-T0062,chat,1,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0062,chat,2,customer,My account is NW-126392.
+NW-T0062,chat,3,agent,"Done, your plan is updated."
+NW-T0062,chat,4,customer,Is there a contract?
+NW-T0062,chat,5,agent,"Done, your plan is updated."
+NW-T0062,chat,6,customer,"Yes, go ahead with the change."
+NW-T0062,chat,7,agent,Upgrades are free and start next billing cycle.
+NW-T0214,chat,0,customer,Is live chat available 24/7?
+NW-T0214,chat,1,agent,Chat is available 24/7.
+NW-T0214,chat,2,customer,"OK, good to know."
+NW-T0214,chat,3,agent,Emails are answered within 24 hours.
+NW-T0214,chat,4,customer,Is chat faster?
+NW-T0214,chat,5,agent,Chat is available 24/7.
+NW-T0148,email,0,customer,"It says my account is locked, what do I do?"
+NW-T0148,email,1,agent,The code is valid for 10 minutes.
+NW-T0148,email,2,customer,How long until it unlocks?
+NW-T0148,email,3,agent,The account unlocks after 30 minutes.
+NW-T0148,email,4,customer,OK I'll try the reset link.
+NW-T0148,email,5,agent,You can reset it at northwind.example/reset.
+NW-T0010,chat,0,customer,Can you explain the router rental charge on my bill?
+NW-T0010,chat,1,agent,I've opened a dispute for you.
+NW-T0010,chat,2,customer,Can you open a dispute?
+NW-T0010,chat,3,agent,I can see a router rental and a late payment fee.
+NW-T0010,chat,4,customer,My account number is NW-590018.
+NW-T0010,chat,5,agent,Let me look at your bill.
+NW-T0010,chat,6,customer,Will I get a late fee meanwhile?
+NW-T0010,chat,7,agent,Let me look at your bill.
+NW-T0041,chat,0,customer,I think I was double charged this month.
+NW-T0041,chat,1,agent,Let me look at your bill.
+NW-T0041,chat,2,customer,Will I get a late fee meanwhile?
+NW-T0041,chat,3,agent,Let me look at your bill.
+NW-T0003,chat,0,customer,I was charged a late fee but I paid on time.
+NW-T0003,chat,1,agent,Let me look at your bill.
+NW-T0003,chat,2,customer,My account number is NW-312831.
+NW-T0003,chat,3,agent,Let me look at your bill.
+NW-T0020,voice,0,customer,There's a charge on my invoice I don't recognise.
+NW-T0020,voice,1,agent,I can see a router rental and a late payment fee.
+NW-T0020,voice,2,customer,Will I get a late fee meanwhile?
+NW-T0020,voice,3,agent,I've opened a dispute for you.
+NW-T0170,chat,0,customer,I want to cancel my service.
+NW-T0170,chat,1,agent,A $150 fee applies within the 12-month term.
+NW-T0170,chat,2,customer,"OK, please cancel it."
+NW-T0170,chat,3,agent,I can help with that.
+NW-T0170,chat,4,customer,I've been with you 8 months.
+NW-T0170,chat,5,agent,Please return the router within 30 days.
+NW-T0170,chat,6,customer,When does service stop?
+NW-T0170,chat,7,agent,I can help with that.
+NW-T0009,email,0,customer,I want to dispute a charge on my last bill.
+NW-T0009,email,1,agent,I've opened a dispute for you.
+NW-T0009,email,2,customer,"OK, please enroll me in autopay."
+NW-T0009,email,3,agent,Let me look at your bill.
+NW-T0009,email,4,customer,Will I get a late fee meanwhile?
+NW-T0009,email,5,agent,I can see a router rental and a late payment fee.
+NW-T0009,email,6,customer,My account number is NW-110350.
+NW-T0009,email,7,agent,I've opened a dispute for you.
+NW-T0091,email,0,customer,"Internet has been out for two days, will I get a credit?"
+NW-T0091,email,1,agent,I ran a line test and found a fault.
+NW-T0091,email,2,customer,Will I get a credit?
+NW-T0091,email,3,agent,I ran a line test and found a fault.
+NW-T0091,email,4,customer,Will I have to pay for the visit?
+NW-T0091,email,5,agent,I ran a line test and found a fault.
+NW-T0091,email,6,customer,My ZIP code is 94349.
+NW-T0091,email,7,agent,I ran a line test and found a fault.
+NW-T0215,sms,0,customer,Can I reach someone at night?
+NW-T0215,sms,1,agent,Chat is available 24/7.
+NW-T0215,sms,2,customer,Thanks.
+NW-T0215,sms,3,agent,Chat is available 24/7.
+NW-T0215,sms,4,customer,Is chat faster?
+NW-T0215,sms,5,agent,Emails are answered within 24 hours.
+NW-T0144,voice,0,customer,Sign in keeps failing on the website.
+NW-T0144,voice,1,agent,The code is valid for 10 minutes.
+NW-T0144,voice,2,customer,OK I'll try the reset link.
+NW-T0144,voice,3,agent,You can reset it at northwind.example/reset.
+NW-T0144,voice,4,customer,How long until it unlocks?
+NW-T0144,voice,5,agent,The account unlocks after 30 minutes.
+NW-T0144,voice,6,customer,I didn't get the SMS code.
+NW-T0144,voice,7,agent,The code is valid for 10 minutes.
+NW-T0216,sms,0,customer,Is there a support line on Sundays?
+NW-T0216,sms,1,agent,Chat is available 24/7.
+NW-T0216,sms,2,customer,Thanks.
+NW-T0216,sms,3,agent,Emails are answered within 24 hours.
+NW-T0216,sms,4,customer,Is chat faster?
+NW-T0216,sms,5,agent,Chat is available 24/7.
+NW-T0216,sms,6,customer,"OK, good to know."
+NW-T0216,sms,7,agent,Emails are answered within 24 hours.
+NW-T0075,chat,0,customer,What faster plans do you have?
+NW-T0075,chat,1,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0075,chat,2,customer,When does the new plan start?
+NW-T0075,chat,3,agent,Upgrades are free and start next billing cycle.
+NW-T0102,sms,0,customer,How do I check the outage status?
+NW-T0102,sms,1,agent,A technician is booked.
+NW-T0102,sms,2,customer,Will I have to pay for the visit?
+NW-T0102,sms,3,agent,I ran a line test and found a fault.
+NW-T0210,email,0,customer,What hours is your call centre open?
+NW-T0210,email,1,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0210,email,2,customer,"OK, good to know."
+NW-T0210,email,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0210,email,4,customer,Is chat faster?
+NW-T0210,email,5,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0040,chat,0,customer,When is my bill due and can I get a discount for autopay?
+NW-T0040,chat,1,agent,I've opened a dispute for you.
+NW-T0040,chat,2,customer,My account number is NW-761746.
+NW-T0040,chat,3,agent,I can see a router rental and a late payment fee.
+NW-T0040,chat,4,customer,Will I get a late fee meanwhile?
+NW-T0040,chat,5,agent,I can see a router rental and a late payment fee.
+NW-T0040,chat,6,customer,Can you open a dispute?
+NW-T0040,chat,7,agent,I can see a router rental and a late payment fee.
+NW-T0086,email,0,customer,My wifi works but there's no internet connection.
+NW-T0086,email,1,agent,A technician is booked.
+NW-T0086,email,2,customer,My ZIP code is 85245.
+NW-T0086,email,3,agent,I ran a line test and found a fault.
+NW-T0086,email,4,customer,Please book a technician.
+NW-T0086,email,5,agent,A technician is booked.
+NW-T0086,email,6,customer,Will I have to pay for the visit?
+NW-T0086,email,7,agent,I ran a line test and found a fault.
+NW-T0110,sms,0,customer,How do I check the outage status?
+NW-T0110,sms,1,agent,Let me check for outages in your area.
+NW-T0110,sms,2,customer,Will I get a credit?
+NW-T0110,sms,3,agent,A technician is booked.
+NW-T0110,sms,4,customer,Please book a technician.
+NW-T0110,sms,5,agent,A technician is booked.
+NW-T0185,chat,0,customer,"I was promised a refund, what's the status?"
+NW-T0185,chat,1,agent,Let me check that refund.
+NW-T0185,chat,2,customer,When will it arrive?
+NW-T0185,chat,3,agent,Let me check that refund.
+NW-T0185,chat,4,customer,It was for $45.20.
+NW-T0185,chat,5,agent,It goes back to the original payment method.
+NW-T0185,chat,6,customer,Will it go to my card?
+NW-T0185,chat,7,agent,It goes back to the original payment method.
+NW-T0154,chat,0,customer,Please close my account.
+NW-T0154,chat,1,agent,A $150 fee applies within the 12-month term.
+NW-T0154,chat,2,customer,"OK, please cancel it."
+NW-T0154,chat,3,agent,Please return the router within 30 days.
+NW-T0155,chat,0,customer,"I'd like to cancel, my contract is almost over."
+NW-T0155,chat,1,agent,Please return the router within 30 days.
+NW-T0155,chat,2,customer,"OK, please cancel it."
+NW-T0155,chat,3,agent,I can help with that.
+NW-T0155,chat,4,customer,When does service stop?
+NW-T0155,chat,5,agent,Please return the router within 30 days.
+NW-T0055,chat,0,customer,Can I switch to the Fiber 500 plan?
+NW-T0055,chat,1,agent,"Done, your plan is updated."
+NW-T0055,chat,2,customer,When does the new plan start?
+NW-T0055,chat,3,agent,"Done, your plan is updated."
+NW-T0055,chat,4,customer,My account is NW-408057.
+NW-T0055,chat,5,agent,Upgrades are free and start next billing cycle.
+NW-T0055,chat,6,customer,"Yes, go ahead with the change."
+NW-T0055,chat,7,agent,Upgrades are free and start next billing cycle.
+NW-T0188,sms,0,customer,"I was promised a refund, what's the status?"
+NW-T0188,sms,1,agent,It goes back to the original payment method.
+NW-T0188,sms,2,customer,When will it arrive?
+NW-T0188,sms,3,agent,Refunds take 5-7 business days.
+NW-T0188,sms,4,customer,Account NW-781814.
+NW-T0188,sms,5,agent,Let me check that refund.
+NW-T0184,chat,0,customer,My refund hasn't arrived yet.
+NW-T0184,chat,1,agent,Let me check that refund.
+NW-T0184,chat,2,customer,It was for $45.20.
+NW-T0184,chat,3,agent,Refunds take 5-7 business days.
+NW-T0184,chat,4,customer,Will it go to my card?
+NW-T0184,chat,5,agent,Refunds take 5-7 business days.
+NW-T0187,sms,0,customer,It's been a week and no refund.
+NW-T0187,sms,1,agent,It goes back to the original payment method.
+NW-T0187,sms,2,customer,When will it arrive?
+NW-T0187,sms,3,agent,Let me check that refund.
+NW-T0187,sms,4,customer,It was for $45.20.
+NW-T0187,sms,5,agent,Let me check that refund.
+NW-T0204,voice,0,customer,How do I contact Northwind support?
+NW-T0204,voice,1,agent,Chat is available 24/7.
+NW-T0204,voice,2,customer,Thanks.
+NW-T0204,voice,3,agent,Emails are answered within 24 hours.
+NW-T0204,voice,4,customer,And email support?
+NW-T0204,voice,5,agent,Emails are answered within 24 hours.
+NW-T0090,sms,0,customer,Can you send a technician? Internet is not working.
+NW-T0090,sms,1,agent,I ran a line test and found a fault.
+NW-T0090,sms,2,customer,Will I have to pay for the visit?
+NW-T0090,sms,3,agent,A technician is booked.
+NW-T0090,sms,4,customer,Please book a technician.
+NW-T0090,sms,5,agent,Let me check for outages in your area.
+NW-T0090,sms,6,customer,My ZIP code is 79940.
+NW-T0090,sms,7,agent,I ran a line test and found a fault.
+NW-T0140,chat,0,customer,I need to change my login password.
+NW-T0140,chat,1,agent,The code is valid for 10 minutes.
+NW-T0140,chat,2,customer,I didn't get the SMS code.
+NW-T0140,chat,3,agent,The code is valid for 10 minutes.
+NW-T0140,chat,4,customer,How long until it unlocks?
+NW-T0140,chat,5,agent,The account unlocks after 30 minutes.
+NW-T0140,chat,6,customer,OK I'll try the reset link.
+NW-T0140,chat,7,agent,The account unlocks after 30 minutes.
+NW-T0033,chat,0,customer,Why is my bill so high this month?
+NW-T0033,chat,1,agent,I've opened a dispute for you.
+NW-T0033,chat,2,customer,"OK, please enroll me in autopay."
+NW-T0033,chat,3,agent,I've opened a dispute for you.
+NW-T0033,chat,4,customer,My account number is NW-658025.
+NW-T0033,chat,5,agent,Let me look at your bill.
+NW-T0025,chat,0,customer,I was charged a late fee but I paid on time.
+NW-T0025,chat,1,agent,Let me look at your bill.
+NW-T0025,chat,2,customer,My account number is NW-825632.
+NW-T0025,chat,3,agent,I can see a router rental and a late payment fee.
+NW-T0053,email,0,customer,Can I move from Basic 100 to Fiber 500?
+NW-T0053,email,1,agent,Upgrades are free and start next billing cycle.
+NW-T0053,email,2,customer,"Yes, go ahead with the change."
+NW-T0053,email,3,agent,Upgrades are free and start next billing cycle.
+NW-T0167,email,0,customer,"I'd like to cancel, my contract is almost over."
+NW-T0167,email,1,agent,Please return the router within 30 days.
+NW-T0167,email,2,customer,"OK, please cancel it."
+NW-T0167,email,3,agent,Please return the router within 30 days.
+NW-T0167,email,4,customer,When does service stop?
+NW-T0167,email,5,agent,I can help with that.
+NW-T0007,chat,0,customer,Why is my bill so high this month?
+NW-T0007,chat,1,agent,I can see a router rental and a late payment fee.
+NW-T0007,chat,2,customer,"OK, please enroll me in autopay."
+NW-T0007,chat,3,agent,I've opened a dispute for you.
+NW-T0007,chat,4,customer,Can you open a dispute?
+NW-T0007,chat,5,agent,Let me look at your bill.
+NW-T0007,chat,6,customer,My account number is NW-222149.
+NW-T0007,chat,7,agent,I've opened a dispute for you.
+NW-T0118,chat,0,customer,My internet is down.
+NW-T0118,chat,1,agent,Let me check for outages in your area.
+NW-T0118,chat,2,customer,My ZIP code is 63610.
+NW-T0118,chat,3,agent,Let me check for outages in your area.
+NW-T0118,chat,4,customer,Will I get a credit?
+NW-T0118,chat,5,agent,I ran a line test and found a fault.
+NW-T0208,sms,0,customer,What hours is your call centre open?
+NW-T0208,sms,1,agent,Chat is available 24/7.
+NW-T0208,sms,2,customer,Thanks.
+NW-T0208,sms,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0208,sms,4,customer,Is chat faster?
+NW-T0208,sms,5,agent,Emails are answered within 24 hours.
+NW-T0175,voice,0,customer,"I was promised a refund, what's the status?"
+NW-T0175,voice,1,agent,It goes back to the original payment method.
+NW-T0175,voice,2,customer,When will it arrive?
+NW-T0175,voice,3,agent,Refunds take 5-7 business days.
+NW-T0175,voice,4,customer,It was for $45.20.
+NW-T0175,voice,5,agent,Refunds take 5-7 business days.
+NW-T0115,email,0,customer,"Internet has been out for two days, will I get a credit?"
+NW-T0115,email,1,agent,I ran a line test and found a fault.
+NW-T0115,email,2,customer,Will I have to pay for the visit?
+NW-T0115,email,3,agent,A technician is booked.
+NW-T0115,email,4,customer,Will I get a credit?
+NW-T0115,email,5,agent,I ran a line test and found a fault.
+NW-T0001,voice,0,customer,"My invoice is higher than usual, can you check it?"
+NW-T0001,voice,1,agent,I can see a router rental and a late payment fee.
+NW-T0001,voice,2,customer,Can you open a dispute?
+NW-T0001,voice,3,agent,I can see a router rental and a late payment fee.
+NW-T0001,voice,4,customer,"OK, please enroll me in autopay."
+NW-T0001,voice,5,agent,I've opened a dispute for you.
+NW-T0131,chat,0,customer,How long is the password reset code valid?
+NW-T0131,chat,1,agent,The code is valid for 10 minutes.
+NW-T0131,chat,2,customer,I didn't get the SMS code.
+NW-T0131,chat,3,agent,The account unlocks after 30 minutes.
+NW-T0131,chat,4,customer,How long until it unlocks?
+NW-T0131,chat,5,agent,The account unlocks after 30 minutes.
+NW-T0129,voice,0,customer,I forgot my password.
+NW-T0129,voice,1,agent,The code is valid for 10 minutes.
+NW-T0129,voice,2,customer,OK I'll try the reset link.
+NW-T0129,voice,3,agent,The account unlocks after 30 minutes.
+NW-T0129,voice,4,customer,How long until it unlocks?
+NW-T0129,voice,5,agent,The code is valid for 10 minutes.
+NW-T0134,voice,0,customer,How do I reset my password?
+NW-T0134,voice,1,agent,You can reset it at northwind.example/reset.
+NW-T0134,voice,2,customer,How long until it unlocks?
+NW-T0134,voice,3,agent,The code is valid for 10 minutes.
+NW-T0134,voice,4,customer,OK I'll try the reset link.
+NW-T0134,voice,5,agent,You can reset it at northwind.example/reset.
+NW-T0134,voice,6,customer,I didn't get the SMS code.
+NW-T0134,voice,7,agent,The account unlocks after 30 minutes.
+NW-T0164,chat,0,customer,How much is the early termination fee?
+NW-T0164,chat,1,agent,Please return the router within 30 days.
+NW-T0164,chat,2,customer,I've been with you 8 months.
+NW-T0164,chat,3,agent,I can help with that.
+NW-T0164,chat,4,customer,When does service stop?
+NW-T0164,chat,5,agent,Please return the router within 30 days.
+NW-T0164,chat,6,customer,"OK, please cancel it."
+NW-T0164,chat,7,agent,Please return the router within 30 days.
+NW-T0042,sms,0,customer,I want to dispute a charge on my last bill.
+NW-T0042,sms,1,agent,Let me look at your bill.
+NW-T0042,sms,2,customer,Can you open a dispute?
+NW-T0042,sms,3,agent,I can see a router rental and a late payment fee.
+NW-T0042,sms,4,customer,"OK, please enroll me in autopay."
+NW-T0042,sms,5,agent,I've opened a dispute for you.
+NW-T0042,sms,6,customer,Will I get a late fee meanwhile?
+NW-T0042,sms,7,agent,I can see a router rental and a late payment fee.
+NW-T0189,email,0,customer,"I was promised a refund, what's the status?"
+NW-T0189,email,1,agent,Let me check that refund.
+NW-T0189,email,2,customer,It was for $45.20.
+NW-T0189,email,3,agent,It goes back to the original payment method.
+NW-T0054,email,0,customer,Is there a fee to change my plan?
+NW-T0054,email,1,agent,Upgrades are free and start next billing cycle.
+NW-T0054,email,2,customer,When does the new plan start?
+NW-T0054,email,3,agent,Upgrades are free and start next billing cycle.
+NW-T0054,email,4,customer,"Yes, go ahead with the change."
+NW-T0054,email,5,agent,"Done, your plan is updated."
+NW-T0016,voice,0,customer,When is my bill due and can I get a discount for autopay?
+NW-T0016,voice,1,agent,I've opened a dispute for you.
+NW-T0016,voice,2,customer,My account number is NW-108053.
+NW-T0016,voice,3,agent,I can see a router rental and a late payment fee.
+NW-T0016,voice,4,customer,"OK, please enroll me in autopay."
+NW-T0016,voice,5,agent,Let me look at your bill.
+NW-T0057,sms,0,customer,I want to change my plan to something cheaper.
+NW-T0057,sms,1,agent,Upgrades are free and start next billing cycle.
+NW-T0057,sms,2,customer,My account is NW-195579.
+NW-T0057,sms,3,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0057,sms,4,customer,When does the new plan start?
+NW-T0057,sms,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0149,chat,0,customer,I want to terminate my contract.
+NW-T0149,chat,1,agent,I can help with that.
+NW-T0149,chat,2,customer,Account NW-869321.
+NW-T0149,chat,3,agent,Please return the router within 30 days.
+NW-T0018,voice,0,customer,I think I was double charged this month.
+NW-T0018,voice,1,agent,Let me look at your bill.
+NW-T0018,voice,2,customer,My account number is NW-156699.
+NW-T0018,voice,3,agent,I've opened a dispute for you.
+NW-T0018,voice,4,customer,"OK, please enroll me in autopay."
+NW-T0018,voice,5,agent,Let me look at your bill.
+NW-T0018,voice,6,customer,Can you open a dispute?
+NW-T0018,voice,7,agent,I can see a router rental and a late payment fee.
+NW-T0203,chat,0,customer,Can I reach someone at night?
+NW-T0203,chat,1,agent,Emails are answered within 24 hours.
+NW-T0203,chat,2,customer,Thanks.
+NW-T0203,chat,3,agent,Chat is available 24/7.
+NW-T0203,chat,4,customer,"OK, good to know."
+NW-T0203,chat,5,agent,Chat is available 24/7.
+NW-T0199,chat,0,customer,How long do I have to request a refund?
+NW-T0199,chat,1,agent,It goes back to the original payment method.
+NW-T0199,chat,2,customer,When will it arrive?
+NW-T0199,chat,3,agent,Refunds take 5-7 business days.
+NW-T0199,chat,4,customer,It was for $45.20.
+NW-T0199,chat,5,agent,Refunds take 5-7 business days.
+NW-T0083,chat,0,customer,The internet keeps dropping out.
+NW-T0083,chat,1,agent,I ran a line test and found a fault.
+NW-T0083,chat,2,customer,Will I have to pay for the visit?
+NW-T0083,chat,3,agent,A technician is booked.
+NW-T0083,chat,4,customer,Please book a technician.
+NW-T0083,chat,5,agent,Let me check for outages in your area.
+NW-T0101,sms,0,customer,The internet keeps dropping out.
+NW-T0101,sms,1,agent,A technician is booked.
+NW-T0101,sms,2,customer,Please book a technician.
+NW-T0101,sms,3,agent,A technician is booked.
+NW-T0101,sms,4,customer,Will I have to pay for the visit?
+NW-T0101,sms,5,agent,I ran a line test and found a fault.
+NW-T0173,sms,0,customer,Can I cancel without paying a fee?
+NW-T0173,sms,1,agent,Please return the router within 30 days.
+NW-T0173,sms,2,customer,"OK, please cancel it."
+NW-T0173,sms,3,agent,A $150 fee applies within the 12-month term.
+NW-T0173,sms,4,customer,When does service stop?
+NW-T0173,sms,5,agent,I can help with that.
+NW-T0015,chat,0,customer,What is this $8 fee on my statement?
+NW-T0015,chat,1,agent,Let me look at your bill.
+NW-T0015,chat,2,customer,"OK, please enroll me in autopay."
+NW-T0015,chat,3,agent,I've opened a dispute for you.
+NW-T0022,chat,0,customer,"My invoice is higher than usual, can you check it?"
+NW-T0022,chat,1,agent,I can see a router rental and a late payment fee.
+NW-T0022,chat,2,customer,"OK, please enroll me in autopay."
+NW-T0022,chat,3,agent,I can see a router rental and a late payment fee.
+NW-T0176,chat,0,customer,Refund status for my account please.
+NW-T0176,chat,1,agent,Refunds take 5-7 business days.
+NW-T0176,chat,2,customer,It was for $45.20.
+NW-T0176,chat,3,agent,It goes back to the original payment method.
+NW-T0217,chat,0,customer,Is live chat available 24/7?
+NW-T0217,chat,1,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0217,chat,2,customer,And email support?
+NW-T0217,chat,3,agent,Emails are answered within 24 hours.
+NW-T0217,chat,4,customer,"OK, good to know."
+NW-T0217,chat,5,agent,Emails are answered within 24 hours.
+NW-T0017,chat,0,customer,"My invoice is higher than usual, can you check it?"
+NW-T0017,chat,1,agent,I can see a router rental and a late payment fee.
+NW-T0017,chat,2,customer,Can you open a dispute?
+NW-T0017,chat,3,agent,Let me look at your bill.
+NW-T0017,chat,4,customer,Will I get a late fee meanwhile?
+NW-T0017,chat,5,agent,I've opened a dispute for you.
+NW-T0017,chat,6,customer,"OK, please enroll me in autopay."
+NW-T0017,chat,7,agent,I've opened a dispute for you.
+NW-T0028,email,0,customer,I think I was double charged this month.
+NW-T0028,email,1,agent,I can see a router rental and a late payment fee.
+NW-T0028,email,2,customer,My account number is NW-923501.
+NW-T0028,email,3,agent,I've opened a dispute for you.
+NW-T0028,email,4,customer,Can you open a dispute?
+NW-T0028,email,5,agent,I can see a router rental and a late payment fee.
+NW-T0028,email,6,customer,Will I get a late fee meanwhile?
+NW-T0028,email,7,agent,I can see a router rental and a late payment fee.
+NW-T0127,sms,0,customer,"It says my account is locked, what do I do?"
+NW-T0127,sms,1,agent,The account unlocks after 30 minutes.
+NW-T0127,sms,2,customer,OK I'll try the reset link.
+NW-T0127,sms,3,agent,The code is valid for 10 minutes.
+NW-T0127,sms,4,customer,How long until it unlocks?
+NW-T0127,sms,5,agent,You can reset it at northwind.example/reset.
+NW-T0127,sms,6,customer,"Thanks, it worked."
+NW-T0127,sms,7,agent,The code is valid for 10 minutes.
+NW-T0056,chat,0,customer,I want to change my plan to something cheaper.
+NW-T0056,chat,1,agent,"Done, your plan is updated."
+NW-T0056,chat,2,customer,When does the new plan start?
+NW-T0056,chat,3,agent,"Done, your plan is updated."
+NW-T0056,chat,4,customer,Is there a contract?
+NW-T0056,chat,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0116,voice,0,customer,Is the network down near ZIP 30301?
+NW-T0116,voice,1,agent,I ran a line test and found a fault.
+NW-T0116,voice,2,customer,Will I have to pay for the visit?
+NW-T0116,voice,3,agent,Let me check for outages in your area.
+NW-T0169,chat,0,customer,I want to cancel my service.
+NW-T0169,chat,1,agent,Please return the router within 30 days.
+NW-T0169,chat,2,customer,I've been with you 8 months.
+NW-T0169,chat,3,agent,I can help with that.
+NW-T0169,chat,4,customer,When does service stop?
+NW-T0169,chat,5,agent,Please return the router within 30 days.
+NW-T0169,chat,6,customer,"OK, please cancel it."
+NW-T0169,chat,7,agent,Please return the router within 30 days.
+NW-T0177,chat,0,customer,Refund status for my account please.
+NW-T0177,chat,1,agent,Let me check that refund.
+NW-T0177,chat,2,customer,Will it go to my card?
+NW-T0177,chat,3,agent,Refunds take 5-7 business days.
+NW-T0177,chat,4,customer,Account NW-173162.
+NW-T0177,chat,5,agent,Refunds take 5-7 business days.
+NW-T0177,chat,6,customer,When will it arrive?
+NW-T0177,chat,7,agent,It goes back to the original payment method.
+NW-T0104,sms,0,customer,My wifi works but there's no internet connection.
+NW-T0104,sms,1,agent,Let me check for outages in your area.
+NW-T0104,sms,2,customer,Please book a technician.
+NW-T0104,sms,3,agent,Let me check for outages in your area.
+NW-T0104,sms,4,customer,My ZIP code is 91014.
+NW-T0104,sms,5,agent,I ran a line test and found a fault.
+NW-T0104,sms,6,customer,Will I have to pay for the visit?
+NW-T0104,sms,7,agent,Let me check for outages in your area.
+NW-T0038,email,0,customer,Can you explain the router rental charge on my bill?
+NW-T0038,email,1,agent,I can see a router rental and a late payment fee.
+NW-T0038,email,2,customer,Can you open a dispute?
+NW-T0038,email,3,agent,Let me look at your bill.
+NW-T0024,chat,0,customer,I think I was double charged this month.
+NW-T0024,chat,1,agent,I've opened a dispute for you.
+NW-T0024,chat,2,customer,Will I get a late fee meanwhile?
+NW-T0024,chat,3,agent,I can see a router rental and a late payment fee.
+NW-T0024,chat,4,customer,"OK, please enroll me in autopay."
+NW-T0024,chat,5,agent,I've opened a dispute for you.
+NW-T0052,chat,0,customer,How much is Fiber Gig per month?
+NW-T0052,chat,1,agent,Upgrades are free and start next billing cycle.
+NW-T0052,chat,2,customer,When does the new plan start?
+NW-T0052,chat,3,agent,Upgrades are free and start next billing cycle.
+NW-T0021,chat,0,customer,Can you explain the router rental charge on my bill?
+NW-T0021,chat,1,agent,I can see a router rental and a late payment fee.
+NW-T0021,chat,2,customer,Can you open a dispute?
+NW-T0021,chat,3,agent,I can see a router rental and a late payment fee.
+NW-T0094,email,0,customer,How do I check the outage status?
+NW-T0094,email,1,agent,A technician is booked.
+NW-T0094,email,2,customer,Will I get a credit?
+NW-T0094,email,3,agent,Let me check for outages in your area.
+NW-T0094,email,4,customer,Will I have to pay for the visit?
+NW-T0094,email,5,agent,A technician is booked.
+NW-T0074,chat,0,customer,Can I switch to the Fiber 500 plan?
+NW-T0074,chat,1,agent,Upgrades are free and start next billing cycle.
+NW-T0074,chat,2,customer,"Yes, go ahead with the change."
+NW-T0074,chat,3,agent,Upgrades are free and start next billing cycle.
+NW-T0162,chat,0,customer,"I'd like to cancel, my contract is almost over."
+NW-T0162,chat,1,agent,I can help with that.
+NW-T0162,chat,2,customer,When does service stop?
+NW-T0162,chat,3,agent,I can help with that.
+NW-T0162,chat,4,customer,Account NW-974003.
+NW-T0162,chat,5,agent,I can help with that.
+NW-T0112,email,0,customer,How do I check the outage status?
+NW-T0112,email,1,agent,I ran a line test and found a fault.
+NW-T0112,email,2,customer,Will I have to pay for the visit?
+NW-T0112,email,3,agent,A technician is booked.
+NW-T0112,email,4,customer,My ZIP code is 46058.
+NW-T0112,email,5,agent,Let me check for outages in your area.
+NW-T0182,voice,0,customer,My refund hasn't arrived yet.
+NW-T0182,voice,1,agent,Let me check that refund.
+NW-T0182,voice,2,customer,When will it arrive?
+NW-T0182,voice,3,agent,It goes back to the original payment method.
+NW-T0085,chat,0,customer,How do I check the outage status?
+NW-T0085,chat,1,agent,I ran a line test and found a fault.
+NW-T0085,chat,2,customer,Will I have to pay for the visit?
+NW-T0085,chat,3,agent,Let me check for outages in your area.
+NW-T0085,chat,4,customer,Please book a technician.
+NW-T0085,chat,5,agent,I ran a line test and found a fault.
+NW-T0163,chat,0,customer,Please close my account.
+NW-T0163,chat,1,agent,A $150 fee applies within the 12-month term.
+NW-T0163,chat,2,customer,I've been with you 8 months.
+NW-T0163,chat,3,agent,I can help with that.
+NW-T0058,chat,0,customer,Is there a fee to change my plan?
+NW-T0058,chat,1,agent,"Done, your plan is updated."
+NW-T0058,chat,2,customer,Is there a contract?
+NW-T0058,chat,3,agent,Upgrades are free and start next billing cycle.
+NW-T0058,chat,4,customer,When does the new plan start?
+NW-T0058,chat,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0058,chat,6,customer,My account is NW-922911.
+NW-T0058,chat,7,agent,"Done, your plan is updated."
+NW-T0138,email,0,customer,"It says my account is locked, what do I do?"
+NW-T0138,email,1,agent,The code is valid for 10 minutes.
+NW-T0138,email,2,customer,How long until it unlocks?
+NW-T0138,email,3,agent,The account unlocks after 30 minutes.
+NW-T0119,voice,0,customer,I can't sign in to the app.
+NW-T0119,voice,1,agent,The code is valid for 10 minutes.
+NW-T0119,voice,2,customer,How long until it unlocks?
+NW-T0119,voice,3,agent,The account unlocks after 30 minutes.
+NW-T0119,voice,4,customer,I didn't get the SMS code.
+NW-T0119,voice,5,agent,The account unlocks after 30 minutes.
+NW-T0013,sms,0,customer,I want to dispute a charge on my last bill.
+NW-T0013,sms,1,agent,Let me look at your bill.
+NW-T0013,sms,2,customer,My account number is NW-724455.
+NW-T0013,sms,3,agent,I can see a router rental and a late payment fee.
+NW-T0013,sms,4,customer,Can you open a dispute?
+NW-T0013,sms,5,agent,Let me look at your bill.
+NW-T0023,email,0,customer,"My bill went up by $10, what is that charge for?"
+NW-T0023,email,1,agent,I've opened a dispute for you.
+NW-T0023,email,2,customer,"OK, please enroll me in autopay."
+NW-T0023,email,3,agent,I can see a router rental and a late payment fee.
+NW-T0023,email,4,customer,Can you open a dispute?
+NW-T0023,email,5,agent,I've opened a dispute for you.
+NW-T0192,sms,0,customer,My refund hasn't arrived yet.
+NW-T0192,sms,1,agent,It goes back to the original payment method.
+NW-T0192,sms,2,customer,Will it go to my card?
+NW-T0192,sms,3,agent,It goes back to the original payment method.
+NW-T0192,sms,4,customer,It was for $45.20.
+NW-T0192,sms,5,agent,Let me check that refund.
+NW-T0006,email,0,customer,"My bill went up by $10, what is that charge for?"
+NW-T0006,email,1,agent,I've opened a dispute for you.
+NW-T0006,email,2,customer,"OK, please enroll me in autopay."
+NW-T0006,email,3,agent,I've opened a dispute for you.
+NW-T0209,chat,0,customer,How do I contact Northwind support?
+NW-T0209,chat,1,agent,Emails are answered within 24 hours.
+NW-T0209,chat,2,customer,Thanks.
+NW-T0209,chat,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0209,chat,4,customer,"OK, good to know."
+NW-T0209,chat,5,agent,Emails are answered within 24 hours.
+NW-T0032,chat,0,customer,"My bill went up by $10, what is that charge for?"
+NW-T0032,chat,1,agent,Let me look at your bill.
+NW-T0032,chat,2,customer,My account number is NW-139290.
+NW-T0032,chat,3,agent,I've opened a dispute for you.
+NW-T0032,chat,4,customer,Will I get a late fee meanwhile?
+NW-T0032,chat,5,agent,I've opened a dispute for you.
+NW-T0032,chat,6,customer,Can you open a dispute?
+NW-T0032,chat,7,agent,I can see a router rental and a late payment fee.
+NW-T0037,chat,0,customer,I think I was double charged this month.
+NW-T0037,chat,1,agent,I've opened a dispute for you.
+NW-T0037,chat,2,customer,"OK, please enroll me in autopay."
+NW-T0037,chat,3,agent,Let me look at your bill.
+NW-T0064,sms,0,customer,What faster plans do you have?
+NW-T0064,sms,1,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0064,sms,2,customer,My account is NW-329566.
+NW-T0064,sms,3,agent,Upgrades are free and start next billing cycle.
+NW-T0064,sms,4,customer,Is there a contract?
+NW-T0064,sms,5,agent,Upgrades are free and start next billing cycle.
+NW-T0122,chat,0,customer,I can't log in to my online account.
+NW-T0122,chat,1,agent,You can reset it at northwind.example/reset.
+NW-T0122,chat,2,customer,I didn't get the SMS code.
+NW-T0122,chat,3,agent,You can reset it at northwind.example/reset.
+NW-T0123,chat,0,customer,I forgot my password.
+NW-T0123,chat,1,agent,The account unlocks after 30 minutes.
+NW-T0123,chat,2,customer,OK I'll try the reset link.
+NW-T0123,chat,3,agent,The code is valid for 10 minutes.
+NW-T0123,chat,4,customer,"Thanks, it worked."
+NW-T0123,chat,5,agent,The code is valid for 10 minutes.
+NW-T0123,chat,6,customer,How long until it unlocks?
+NW-T0123,chat,7,agent,You can reset it at northwind.example/reset.
+NW-T0157,voice,0,customer,I want to terminate my contract.
+NW-T0157,voice,1,agent,Please return the router within 30 days.
+NW-T0157,voice,2,customer,"OK, please cancel it."
+NW-T0157,voice,3,agent,I can help with that.
+NW-T0198,chat,0,customer,"I was promised a refund, what's the status?"
+NW-T0198,chat,1,agent,Refunds take 5-7 business days.
+NW-T0198,chat,2,customer,It was for $45.20.
+NW-T0198,chat,3,agent,It goes back to the original payment method.
+NW-T0198,chat,4,customer,When will it arrive?
+NW-T0198,chat,5,agent,Refunds take 5-7 business days.
+NW-T0201,email,0,customer,What time does phone support close?
+NW-T0201,email,1,agent,Emails are answered within 24 hours.
+NW-T0201,email,2,customer,Thanks.
+NW-T0201,email,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0201,email,4,customer,And email support?
+NW-T0201,email,5,agent,Chat is available 24/7.
+NW-T0011,chat,0,customer,I think I was double charged this month.
+NW-T0011,chat,1,agent,I've opened a dispute for you.
+NW-T0011,chat,2,customer,"OK, please enroll me in autopay."
+NW-T0011,chat,3,agent,Let me look at your bill.
+NW-T0011,chat,4,customer,My account number is NW-877977.
+NW-T0011,chat,5,agent,Let me look at your bill.
+NW-T0011,chat,6,customer,Will I get a late fee meanwhile?
+NW-T0011,chat,7,agent,I can see a router rental and a late payment fee.
+NW-T0098,sms,0,customer,My internet is down.
+NW-T0098,sms,1,agent,A technician is booked.
+NW-T0098,sms,2,customer,Will I get a credit?
+NW-T0098,sms,3,agent,Let me check for outages in your area.
+NW-T0098,sms,4,customer,Will I have to pay for the visit?
+NW-T0098,sms,5,agent,I ran a line test and found a fault.
+NW-T0049,voice,0,customer,I'd like to downgrade to a cheaper plan.
+NW-T0049,voice,1,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0049,voice,2,customer,When does the new plan start?
+NW-T0049,voice,3,agent,"Done, your plan is updated."
+NW-T0049,voice,4,customer,Is there a contract?
+NW-T0049,voice,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0125,chat,0,customer,How long is the password reset code valid?
+NW-T0125,chat,1,agent,The account unlocks after 30 minutes.
+NW-T0125,chat,2,customer,I didn't get the SMS code.
+NW-T0125,chat,3,agent,The account unlocks after 30 minutes.
+NW-T0125,chat,4,customer,OK I'll try the reset link.
+NW-T0125,chat,5,agent,The account unlocks after 30 minutes.
+NW-T0125,chat,6,customer,"Thanks, it worked."
+NW-T0125,chat,7,agent,The code is valid for 10 minutes.
+NW-T0043,chat,0,customer,Can I switch to the Fiber 500 plan?
+NW-T0043,chat,1,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0043,chat,2,customer,Is there a contract?
+NW-T0043,chat,3,agent,"Done, your plan is updated."
+NW-T0195,chat,0,customer,Where is my refund?
+NW-T0195,chat,1,agent,Let me check that refund.
+NW-T0195,chat,2,customer,Will it go to my card?
+NW-T0195,chat,3,agent,Refunds take 5-7 business days.
+NW-T0195,chat,4,customer,When will it arrive?
+NW-T0195,chat,5,agent,Refunds take 5-7 business days.
+NW-T0206,chat,0,customer,When can I call customer support?
+NW-T0206,chat,1,agent,Chat is available 24/7.
+NW-T0206,chat,2,customer,Is chat faster?
+NW-T0206,chat,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0206,chat,4,customer,"OK, good to know."
+NW-T0206,chat,5,agent,Chat is available 24/7.
+NW-T0078,email,0,customer,What faster plans do you have?
+NW-T0078,email,1,agent,"Done, your plan is updated."
+NW-T0078,email,2,customer,When does the new plan start?
+NW-T0078,email,3,agent,Upgrades are free and start next billing cycle.
+NW-T0078,email,4,customer,"Yes, go ahead with the change."
+NW-T0078,email,5,agent,"Done, your plan is updated."
+NW-T0026,chat,0,customer,Can you explain the router rental charge on my bill?
+NW-T0026,chat,1,agent,I can see a router rental and a late payment fee.
+NW-T0026,chat,2,customer,Can you open a dispute?
+NW-T0026,chat,3,agent,Let me look at your bill.
+NW-T0026,chat,4,customer,Will I get a late fee meanwhile?
+NW-T0026,chat,5,agent,I've opened a dispute for you.
+NW-T0026,chat,6,customer,"OK, please enroll me in autopay."
+NW-T0026,chat,7,agent,Let me look at your bill.
+NW-T0109,email,0,customer,The internet keeps dropping out.
+NW-T0109,email,1,agent,Let me check for outages in your area.
+NW-T0109,email,2,customer,My ZIP code is 25743.
+NW-T0109,email,3,agent,I ran a line test and found a fault.
+NW-T0109,email,4,customer,Will I have to pay for the visit?
+NW-T0109,email,5,agent,Let me check for outages in your area.
+NW-T0109,email,6,customer,Will I get a credit?
+NW-T0109,email,7,agent,Let me check for outages in your area.
+NW-T0095,chat,0,customer,My internet is down.
+NW-T0095,chat,1,agent,Let me check for outages in your area.
+NW-T0095,chat,2,customer,Will I get a credit?
+NW-T0095,chat,3,agent,A technician is booked.
+NW-T0095,chat,4,customer,Will I have to pay for the visit?
+NW-T0095,chat,5,agent,Let me check for outages in your area.
+NW-T0105,chat,0,customer,The internet keeps dropping out.
+NW-T0105,chat,1,agent,I ran a line test and found a fault.
+NW-T0105,chat,2,customer,Will I get a credit?
+NW-T0105,chat,3,agent,I ran a line test and found a fault.
+NW-T0082,voice,0,customer,My connection is offline again.
+NW-T0082,voice,1,agent,Let me check for outages in your area.
+NW-T0082,voice,2,customer,Will I get a credit?
+NW-T0082,voice,3,agent,Let me check for outages in your area.
+NW-T0082,voice,4,customer,Please book a technician.
+NW-T0082,voice,5,agent,I ran a line test and found a fault.
+NW-T0092,chat,0,customer,My internet is down.
+NW-T0092,chat,1,agent,Let me check for outages in your area.
+NW-T0092,chat,2,customer,Will I get a credit?
+NW-T0092,chat,3,agent,I ran a line test and found a fault.
+NW-T0004,email,0,customer,Can you explain the router rental charge on my bill?
+NW-T0004,email,1,agent,I can see a router rental and a late payment fee.
+NW-T0004,email,2,customer,"OK, please enroll me in autopay."
+NW-T0004,email,3,agent,I've opened a dispute for you.
+NW-T0004,email,4,customer,My account number is NW-818296.
+NW-T0004,email,5,agent,I can see a router rental and a late payment fee.
+NW-T0202,chat,0,customer,What time does phone support close?
+NW-T0202,chat,1,agent,Chat is available 24/7.
+NW-T0202,chat,2,customer,Thanks.
+NW-T0202,chat,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0202,chat,4,customer,Is chat faster?
+NW-T0202,chat,5,agent,Chat is available 24/7.
+NW-T0202,chat,6,customer,And email support?
+NW-T0202,chat,7,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0113,sms,0,customer,"Internet has been out for two days, will I get a credit?"
+NW-T0113,sms,1,agent,Let me check for outages in your area.
+NW-T0113,sms,2,customer,Will I have to pay for the visit?
+NW-T0113,sms,3,agent,I ran a line test and found a fault.
+NW-T0113,sms,4,customer,Will I get a credit?
+NW-T0113,sms,5,agent,I ran a line test and found a fault.
+NW-T0113,sms,6,customer,Please book a technician.
+NW-T0113,sms,7,agent,A technician is booked.
+NW-T0220,chat,0,customer,When can I call customer support?
+NW-T0220,chat,1,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0220,chat,2,customer,And email support?
+NW-T0220,chat,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0093,email,0,customer,My connection is offline again.
+NW-T0093,email,1,agent,I ran a line test and found a fault.
+NW-T0093,email,2,customer,Will I have to pay for the visit?
+NW-T0093,email,3,agent,I ran a line test and found a fault.
+NW-T0093,email,4,customer,Please book a technician.
+NW-T0093,email,5,agent,A technician is booked.
+NW-T0147,sms,0,customer,I forgot my password.
+NW-T0147,sms,1,agent,The code is valid for 10 minutes.
+NW-T0147,sms,2,customer,I didn't get the SMS code.
+NW-T0147,sms,3,agent,The code is valid for 10 minutes.
+NW-T0153,chat,0,customer,"I'd like to cancel, my contract is almost over."
+NW-T0153,chat,1,agent,I can help with that.
+NW-T0153,chat,2,customer,I've been with you 8 months.
+NW-T0153,chat,3,agent,I can help with that.
+NW-T0153,chat,4,customer,When does service stop?
+NW-T0153,chat,5,agent,Please return the router within 30 days.
+NW-T0150,email,0,customer,I'm moving and need to cancel my internet.
+NW-T0150,email,1,agent,I can help with that.
+NW-T0150,email,2,customer,I've been with you 8 months.
+NW-T0150,email,3,agent,I can help with that.
+NW-T0207,sms,0,customer,Is live chat available 24/7?
+NW-T0207,sms,1,agent,Chat is available 24/7.
+NW-T0207,sms,2,customer,"OK, good to know."
+NW-T0207,sms,3,agent,Chat is available 24/7.
+NW-T0087,voice,0,customer,"Internet has been out for two days, will I get a credit?"
+NW-T0087,voice,1,agent,A technician is booked.
+NW-T0087,voice,2,customer,My ZIP code is 64400.
+NW-T0087,voice,3,agent,A technician is booked.
+NW-T0060,chat,0,customer,Can I move from Basic 100 to Fiber 500?
+NW-T0060,chat,1,agent,Upgrades are free and start next billing cycle.
+NW-T0060,chat,2,customer,"Yes, go ahead with the change."
+NW-T0060,chat,3,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0060,chat,4,customer,Is there a contract?
+NW-T0060,chat,5,agent,"Done, your plan is updated."
+NW-T0211,sms,0,customer,What time does phone support close?
+NW-T0211,sms,1,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0211,sms,2,customer,"OK, good to know."
+NW-T0211,sms,3,agent,Chat is available 24/7.
+NW-T0108,chat,0,customer,The internet keeps dropping out.
+NW-T0108,chat,1,agent,Let me check for outages in your area.
+NW-T0108,chat,2,customer,Will I get a credit?
+NW-T0108,chat,3,agent,A technician is booked.
+NW-T0108,chat,4,customer,My ZIP code is 81237.
+NW-T0108,chat,5,agent,Let me check for outages in your area.
+NW-T0108,chat,6,customer,Please book a technician.
+NW-T0108,chat,7,agent,Let me check for outages in your area.
+NW-T0212,voice,0,customer,When can I call customer support?
+NW-T0212,voice,1,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0212,voice,2,customer,Thanks.
+NW-T0212,voice,3,agent,Emails are answered within 24 hours.
+NW-T0212,voice,4,customer,"OK, good to know."
+NW-T0212,voice,5,agent,Chat is available 24/7.
+NW-T0181,sms,0,customer,How long do I have to request a refund?
+NW-T0181,sms,1,agent,Refunds take 5-7 business days.
+NW-T0181,sms,2,customer,It was for $45.20.
+NW-T0181,sms,3,agent,It goes back to the original payment method.
+NW-T0181,sms,4,customer,When will it arrive?
+NW-T0181,sms,5,agent,Let me check that refund.
+NW-T0181,sms,6,customer,Will it go to my card?
+NW-T0181,sms,7,agent,Let me check that refund.
+NW-T0156,email,0,customer,How much is the early termination fee?
+NW-T0156,email,1,agent,I can help with that.
+NW-T0156,email,2,customer,I've been with you 8 months.
+NW-T0156,email,3,agent,A $150 fee applies within the 12-month term.
+NW-T0156,email,4,customer,Account NW-822281.
+NW-T0156,email,5,agent,A $150 fee applies within the 12-month term.
+NW-T0156,email,6,customer,When does service stop?
+NW-T0156,email,7,agent,A $150 fee applies within the 12-month term.
+NW-T0046,voice,0,customer,Is there a fee to change my plan?
+NW-T0046,voice,1,agent,Upgrades are free and start next billing cycle.
+NW-T0046,voice,2,customer,My account is NW-954396.
+NW-T0046,voice,3,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0046,voice,4,customer,When does the new plan start?
+NW-T0046,voice,5,agent,"Done, your plan is updated."
+NW-T0046,voice,6,customer,"Yes, go ahead with the change."
+NW-T0046,voice,7,agent,Upgrades are free and start next billing cycle.
+NW-T0100,chat,0,customer,The internet keeps dropping out.
+NW-T0100,chat,1,agent,A technician is booked.
+NW-T0100,chat,2,customer,Will I get a credit?
+NW-T0100,chat,3,agent,Let me check for outages in your area.
+NW-T0159,chat,0,customer,I want to cancel my service.
+NW-T0159,chat,1,agent,A $150 fee applies within the 12-month term.
+NW-T0159,chat,2,customer,When does service stop?
+NW-T0159,chat,3,agent,Please return the router within 30 days.
+NW-T0159,chat,4,customer,Account NW-429647.
+NW-T0159,chat,5,agent,I can help with that.
+NW-T0159,chat,6,customer,"OK, please cancel it."
+NW-T0159,chat,7,agent,A $150 fee applies within the 12-month term.
+NW-T0186,sms,0,customer,It's been a week and no refund.
+NW-T0186,sms,1,agent,It goes back to the original payment method.
+NW-T0186,sms,2,customer,Account NW-949232.
+NW-T0186,sms,3,agent,It goes back to the original payment method.
+NW-T0218,chat,0,customer,Are you open on weekends?
+NW-T0218,chat,1,agent,Emails are answered within 24 hours.
+NW-T0218,chat,2,customer,Thanks.
+NW-T0218,chat,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0218,chat,4,customer,Is chat faster?
+NW-T0218,chat,5,agent,Chat is available 24/7.
+NW-T0063,email,0,customer,I want to upgrade my internet plan.
+NW-T0063,email,1,agent,"Done, your plan is updated."
+NW-T0063,email,2,customer,Is there a contract?
+NW-T0063,email,3,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0063,email,4,customer,When does the new plan start?
+NW-T0063,email,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0063,email,6,customer,My account is NW-729624.
+NW-T0063,email,7,agent,"Done, your plan is updated."
+NW-T0002,sms,0,customer,"My invoice is higher than usual, can you check it?"
+NW-T0002,sms,1,agent,Let me look at your bill.
+NW-T0002,sms,2,customer,"OK, please enroll me in autopay."
+NW-T0002,sms,3,agent,I've opened a dispute for you.
+NW-T0068,email,0,customer,I want to change my plan to something cheaper.
+NW-T0068,email,1,agent,"Done, your plan is updated."
+NW-T0068,email,2,customer,When does the new plan start?
+NW-T0068,email,3,agent,"Done, your plan is updated."
+NW-T0068,email,4,customer,"Yes, go ahead with the change."
+NW-T0068,email,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0088,sms,0,customer,Can you send a technician? Internet is not working.
+NW-T0088,sms,1,agent,Let me check for outages in your area.
+NW-T0088,sms,2,customer,Will I get a credit?
+NW-T0088,sms,3,agent,A technician is booked.
+NW-T0088,sms,4,customer,Will I have to pay for the visit?
+NW-T0088,sms,5,agent,A technician is booked.
+NW-T0142,sms,0,customer,I can't sign in to the app.
+NW-T0142,sms,1,agent,The code is valid for 10 minutes.
+NW-T0142,sms,2,customer,I didn't get the SMS code.
+NW-T0142,sms,3,agent,You can reset it at northwind.example/reset.
+NW-T0197,chat,0,customer,My refund hasn't arrived yet.
+NW-T0197,chat,1,agent,It goes back to the original payment method.
+NW-T0197,chat,2,customer,When will it arrive?
+NW-T0197,chat,3,agent,Refunds take 5-7 business days.
+NW-T0072,email,0,customer,Can I move from Basic 100 to Fiber 500?
+NW-T0072,email,1,agent,Upgrades are free and start next billing cycle.
+NW-T0072,email,2,customer,When does the new plan start?
+NW-T0072,email,3,agent,Upgrades are free and start next billing cycle.
+NW-T0072,email,4,customer,"Yes, go ahead with the change."
+NW-T0072,email,5,agent,"Done, your plan is updated."
+NW-T0072,email,6,customer,My account is NW-569751.
+NW-T0072,email,7,agent,"Done, your plan is updated."
+NW-T0045,chat,0,customer,I want to change my plan to something cheaper.
+NW-T0045,chat,1,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0045,chat,2,customer,When does the new plan start?
+NW-T0045,chat,3,agent,"Done, your plan is updated."
+NW-T0145,email,0,customer,My account is locked after too many attempts.
+NW-T0145,email,1,agent,You can reset it at northwind.example/reset.
+NW-T0145,email,2,customer,"Thanks, it worked."
+NW-T0145,email,3,agent,The code is valid for 10 minutes.
+NW-T0145,email,4,customer,OK I'll try the reset link.
+NW-T0145,email,5,agent,The code is valid for 10 minutes.
+NW-T0145,email,6,customer,How long until it unlocks?
+NW-T0145,email,7,agent,The account unlocks after 30 minutes.
+NW-T0027,chat,0,customer,I want to dispute a charge on my last bill.
+NW-T0027,chat,1,agent,Let me look at your bill.
+NW-T0027,chat,2,customer,"OK, please enroll me in autopay."
+NW-T0027,chat,3,agent,Let me look at your bill.
+NW-T0069,chat,0,customer,Can I switch to the Fiber 500 plan?
+NW-T0069,chat,1,agent,Upgrades are free and start next billing cycle.
+NW-T0069,chat,2,customer,My account is NW-186641.
+NW-T0069,chat,3,agent,Upgrades are free and start next billing cycle.
+NW-T0069,chat,4,customer,"Yes, go ahead with the change."
+NW-T0069,chat,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0069,chat,6,customer,Is there a contract?
+NW-T0069,chat,7,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0107,sms,0,customer,Can you send a technician? Internet is not working.
+NW-T0107,sms,1,agent,Let me check for outages in your area.
+NW-T0107,sms,2,customer,My ZIP code is 72401.
+NW-T0107,sms,3,agent,Let me check for outages in your area.
+NW-T0107,sms,4,customer,Will I get a credit?
+NW-T0107,sms,5,agent,Let me check for outages in your area.
+NW-T0107,sms,6,customer,Please book a technician.
+NW-T0107,sms,7,agent,I ran a line test and found a fault.
+NW-T0191,voice,0,customer,Can I get a refund for last month's charge?
+NW-T0191,voice,1,agent,Let me check that refund.
+NW-T0191,voice,2,customer,When will it arrive?
+NW-T0191,voice,3,agent,It goes back to the original payment method.
+NW-T0191,voice,4,customer,Account NW-553328.
+NW-T0191,voice,5,agent,Refunds take 5-7 business days.
+NW-T0099,chat,0,customer,"Internet has been out for two days, will I get a credit?"
+NW-T0099,chat,1,agent,Let me check for outages in your area.
+NW-T0099,chat,2,customer,Will I get a credit?
+NW-T0099,chat,3,agent,Let me check for outages in your area.
+NW-T0073,email,0,customer,Is there a fee to change my plan?
+NW-T0073,email,1,agent,"Done, your plan is updated."
+NW-T0073,email,2,customer,Is there a contract?
+NW-T0073,email,3,agent,Upgrades are free and start next billing cycle.
+NW-T0073,email,4,customer,"Yes, go ahead with the change."
+NW-T0073,email,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0166,sms,0,customer,Cancel my internet service please.
+NW-T0166,sms,1,agent,I can help with that.
+NW-T0166,sms,2,customer,I've been with you 8 months.
+NW-T0166,sms,3,agent,A $150 fee applies within the 12-month term.
+NW-T0166,sms,4,customer,"OK, please cancel it."
+NW-T0166,sms,5,agent,Please return the router within 30 days.
+NW-T0048,voice,0,customer,Is there a fee to change my plan?
+NW-T0048,voice,1,agent,Upgrades are free and start next billing cycle.
+NW-T0048,voice,2,customer,When does the new plan start?
+NW-T0048,voice,3,agent,Upgrades are free and start next billing cycle.
+NW-T0048,voice,4,customer,My account is NW-637709.
+NW-T0048,voice,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0200,chat,0,customer,How long do I have to request a refund?
+NW-T0200,chat,1,agent,Refunds take 5-7 business days.
+NW-T0200,chat,2,customer,Account NW-897764.
+NW-T0200,chat,3,agent,It goes back to the original payment method.
+NW-T0200,chat,4,customer,It was for $45.20.
+NW-T0200,chat,5,agent,It goes back to the original payment method.
+NW-T0200,chat,6,customer,When will it arrive?
+NW-T0200,chat,7,agent,It goes back to the original payment method.
+NW-T0066,voice,0,customer,What speeds do your internet plans offer?
+NW-T0066,voice,1,agent,"Done, your plan is updated."
+NW-T0066,voice,2,customer,"Yes, go ahead with the change."
+NW-T0066,voice,3,agent,Upgrades are free and start next billing cycle.
+NW-T0089,voice,0,customer,"Internet has been out for two days, will I get a credit?"
+NW-T0089,voice,1,agent,I ran a line test and found a fault.
+NW-T0089,voice,2,customer,Will I get a credit?
+NW-T0089,voice,3,agent,Let me check for outages in your area.
+NW-T0089,voice,4,customer,Please book a technician.
+NW-T0089,voice,5,agent,Let me check for outages in your area.
+NW-T0089,voice,6,customer,My ZIP code is 78915.
+NW-T0089,voice,7,agent,A technician is booked.
+NW-T0081,chat,0,customer,Is the network down near ZIP 30301?
+NW-T0081,chat,1,agent,I ran a line test and found a fault.
+NW-T0081,chat,2,customer,Will I have to pay for the visit?
+NW-T0081,chat,3,agent,A technician is booked.
+NW-T0081,chat,4,customer,My ZIP code is 54670.
+NW-T0081,chat,5,agent,I ran a line test and found a fault.
+NW-T0133,chat,0,customer,The reset code never arrived.
+NW-T0133,chat,1,agent,The account unlocks after 30 minutes.
+NW-T0133,chat,2,customer,OK I'll try the reset link.
+NW-T0133,chat,3,agent,The code is valid for 10 minutes.
+NW-T0133,chat,4,customer,I didn't get the SMS code.
+NW-T0133,chat,5,agent,The account unlocks after 30 minutes.
+NW-T0219,chat,0,customer,Is there a support line on Sundays?
+NW-T0219,chat,1,agent,Chat is available 24/7.
+NW-T0219,chat,2,customer,Is chat faster?
+NW-T0219,chat,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0219,chat,4,customer,"OK, good to know."
+NW-T0219,chat,5,agent,Emails are answered within 24 hours.
+NW-T0219,chat,6,customer,Thanks.
+NW-T0219,chat,7,agent,Chat is available 24/7.
+NW-T0158,sms,0,customer,What happens to the router if I cancel?
+NW-T0158,sms,1,agent,A $150 fee applies within the 12-month term.
+NW-T0158,sms,2,customer,When does service stop?
+NW-T0158,sms,3,agent,I can help with that.
+NW-T0158,sms,4,customer,Account NW-193058.
+NW-T0158,sms,5,agent,A $150 fee applies within the 12-month term.
+NW-T0158,sms,6,customer,I've been with you 8 months.
+NW-T0158,sms,7,agent,A $150 fee applies within the 12-month term.
+NW-T0039,chat,0,customer,What is this $8 fee on my statement?
+NW-T0039,chat,1,agent,I can see a router rental and a late payment fee.
+NW-T0039,chat,2,customer,"OK, please enroll me in autopay."
+NW-T0039,chat,3,agent,Let me look at your bill.
+NW-T0039,chat,4,customer,Can you open a dispute?
+NW-T0039,chat,5,agent,I've opened a dispute for you.
+NW-T0205,voice,0,customer,Can I reach someone at night?
+NW-T0205,voice,1,agent,Chat is available 24/7.
+NW-T0205,voice,2,customer,Thanks.
+NW-T0205,voice,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0205,voice,4,customer,And email support?
+NW-T0205,voice,5,agent,Chat is available 24/7.
+NW-T0205,voice,6,customer,"OK, good to know."
+NW-T0205,voice,7,agent,Chat is available 24/7.
+NW-T0103,chat,0,customer,My wifi works but there's no internet connection.
+NW-T0103,chat,1,agent,Let me check for outages in your area.
+NW-T0103,chat,2,customer,My ZIP code is 42191.
+NW-T0103,chat,3,agent,A technician is booked.
+NW-T0103,chat,4,customer,Please book a technician.
+NW-T0103,chat,5,agent,A technician is booked.
+NW-T0103,chat,6,customer,Will I have to pay for the visit?
+NW-T0103,chat,7,agent,I ran a line test and found a fault.
+NW-T0097,sms,0,customer,The internet keeps dropping out.
+NW-T0097,sms,1,agent,Let me check for outages in your area.
+NW-T0097,sms,2,customer,Please book a technician.
+NW-T0097,sms,3,agent,Let me check for outages in your area.
+NW-T0097,sms,4,customer,Will I have to pay for the visit?
+NW-T0097,sms,5,agent,I ran a line test and found a fault.
+NW-T0035,voice,0,customer,"My bill went up by $10, what is that charge for?"
+NW-T0035,voice,1,agent,I can see a router rental and a late payment fee.
+NW-T0035,voice,2,customer,My account number is NW-677570.
+NW-T0035,voice,3,agent,I've opened a dispute for you.
+NW-T0035,voice,4,customer,"OK, please enroll me in autopay."
+NW-T0035,voice,5,agent,Let me look at your bill.
+NW-T0151,chat,0,customer,How do I return my equipment after cancelling?
+NW-T0151,chat,1,agent,Please return the router within 30 days.
+NW-T0151,chat,2,customer,Account NW-616985.
+NW-T0151,chat,3,agent,A $150 fee applies within the 12-month term.
+NW-T0139,chat,0,customer,I can't log in to my online account.
+NW-T0139,chat,1,agent,You can reset it at northwind.example/reset.
+NW-T0139,chat,2,customer,"Thanks, it worked."
+NW-T0139,chat,3,agent,The account unlocks after 30 minutes.
+NW-T0139,chat,4,customer,I didn't get the SMS code.
+NW-T0139,chat,5,agent,You can reset it at northwind.example/reset.
+NW-T0070,email,0,customer,I want to change my plan to something cheaper.
+NW-T0070,email,1,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0070,email,2,customer,My account is NW-905048.
+NW-T0070,email,3,agent,Upgrades are free and start next billing cycle.
+NW-T0070,email,4,customer,"Yes, go ahead with the change."
+NW-T0070,email,5,agent,Upgrades are free and start next billing cycle.
+NW-T0171,sms,0,customer,How much is the early termination fee?
+NW-T0171,sms,1,agent,I can help with that.
+NW-T0171,sms,2,customer,I've been with you 8 months.
+NW-T0171,sms,3,agent,I can help with that.
+NW-T0084,voice,0,customer,My wifi works but there's no internet connection.
+NW-T0084,voice,1,agent,A technician is booked.
+NW-T0084,voice,2,customer,Will I get a credit?
+NW-T0084,voice,3,agent,Let me check for outages in your area.
+NW-T0014,voice,0,customer,Why is my bill so high this month?
+NW-T0014,voice,1,agent,I can see a router rental and a late payment fee.
+NW-T0014,voice,2,customer,"OK, please enroll me in autopay."
+NW-T0014,voice,3,agent,I can see a router rental and a late payment fee.
+NW-T0014,voice,4,customer,Will I get a late fee meanwhile?
+NW-T0014,voice,5,agent,Let me look at your bill.
+NW-T0014,voice,6,customer,Can you open a dispute?
+NW-T0014,voice,7,agent,I can see a router rental and a late payment fee.
+NW-T0005,chat,0,customer,"My bill went up by $10, what is that charge for?"
+NW-T0005,chat,1,agent,I've opened a dispute for you.
+NW-T0005,chat,2,customer,Will I get a late fee meanwhile?
+NW-T0005,chat,3,agent,I can see a router rental and a late payment fee.
+NW-T0180,chat,0,customer,"I returned my modem, when do I get my money back?"
+NW-T0180,chat,1,agent,It goes back to the original payment method.
+NW-T0180,chat,2,customer,It was for $45.20.
+NW-T0180,chat,3,agent,Let me check that refund.
+NW-T0180,chat,4,customer,When will it arrive?
+NW-T0180,chat,5,agent,Let me check that refund.
+NW-T0180,chat,6,customer,Account NW-334424.
+NW-T0180,chat,7,agent,Let me check that refund.
+NW-T0168,email,0,customer,How much is the early termination fee?
+NW-T0168,email,1,agent,A $150 fee applies within the 12-month term.
+NW-T0168,email,2,customer,I've been with you 8 months.
+NW-T0168,email,3,agent,A $150 fee applies within the 12-month term.
+NW-T0174,sms,0,customer,Please close my account.
+NW-T0174,sms,1,agent,I can help with that.
+NW-T0174,sms,2,customer,"OK, please cancel it."
+NW-T0174,sms,3,agent,A $150 fee applies within the 12-month term.
+NW-T0146,chat,0,customer,How do I reset my password?
+NW-T0146,chat,1,agent,The account unlocks after 30 minutes.
+NW-T0146,chat,2,customer,I didn't get the SMS code.
+NW-T0146,chat,3,agent,You can reset it at northwind.example/reset.
+NW-T0031,chat,0,customer,I think I was double charged this month.
+NW-T0031,chat,1,agent,I can see a router rental and a late payment fee.
+NW-T0031,chat,2,customer,Can you open a dispute?
+NW-T0031,chat,3,agent,Let me look at your bill.
+NW-T0031,chat,4,customer,Will I get a late fee meanwhile?
+NW-T0031,chat,5,agent,I've opened a dispute for you.
+NW-T0111,chat,0,customer,My internet is down.
+NW-T0111,chat,1,agent,A technician is booked.
+NW-T0111,chat,2,customer,Will I get a credit?
+NW-T0111,chat,3,agent,Let me check for outages in your area.
+NW-T0121,sms,0,customer,I can't sign in to the app.
+NW-T0121,sms,1,agent,The account unlocks after 30 minutes.
+NW-T0121,sms,2,customer,How long until it unlocks?
+NW-T0121,sms,3,agent,The account unlocks after 30 minutes.
+NW-T0121,sms,4,customer,"Thanks, it worked."
+NW-T0121,sms,5,agent,You can reset it at northwind.example/reset.
+NW-T0121,sms,6,customer,OK I'll try the reset link.
+NW-T0121,sms,7,agent,You can reset it at northwind.example/reset.
+NW-T0019,voice,0,customer,There's a charge on my invoice I don't recognise.
+NW-T0019,voice,1,agent,Let me look at your bill.
+NW-T0019,voice,2,customer,"OK, please enroll me in autopay."
+NW-T0019,voice,3,agent,Let me look at your bill.
+NW-T0019,voice,4,customer,My account number is NW-748876.
+NW-T0019,voice,5,agent,Let me look at your bill.
+NW-T0136,sms,0,customer,"It says my account is locked, what do I do?"
+NW-T0136,sms,1,agent,You can reset it at northwind.example/reset.
+NW-T0136,sms,2,customer,How long until it unlocks?
+NW-T0136,sms,3,agent,You can reset it at northwind.example/reset.
+NW-T0051,chat,0,customer,Can I move from Basic 100 to Fiber 500?
+NW-T0051,chat,1,agent,"Done, your plan is updated."
+NW-T0051,chat,2,customer,When does the new plan start?
+NW-T0051,chat,3,agent,"Done, your plan is updated."
+NW-T0190,sms,0,customer,Where is my refund?
+NW-T0190,sms,1,agent,Refunds take 5-7 business days.
+NW-T0190,sms,2,customer,It was for $45.20.
+NW-T0190,sms,3,agent,Let me check that refund.
+NW-T0190,sms,4,customer,Account NW-711506.
+NW-T0190,sms,5,agent,It goes back to the original payment method.
+NW-T0077,sms,0,customer,I want to upgrade my internet plan.
+NW-T0077,sms,1,agent,"Done, your plan is updated."
+NW-T0077,sms,2,customer,My account is NW-114473.
+NW-T0077,sms,3,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0077,sms,4,customer,When does the new plan start?
+NW-T0077,sms,5,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0077,sms,6,customer,Is there a contract?
+NW-T0077,sms,7,agent,"Done, your plan is updated."
+NW-T0047,sms,0,customer,Can I move from Basic 100 to Fiber 500?
+NW-T0047,sms,1,agent,Upgrades are free and start next billing cycle.
+NW-T0047,sms,2,customer,When does the new plan start?
+NW-T0047,sms,3,agent,"Done, your plan is updated."
+NW-T0179,chat,0,customer,It's been a week and no refund.
+NW-T0179,chat,1,agent,Refunds take 5-7 business days.
+NW-T0179,chat,2,customer,It was for $45.20.
+NW-T0179,chat,3,agent,It goes back to the original payment method.
+NW-T0179,chat,4,customer,Account NW-860388.
+NW-T0179,chat,5,agent,It goes back to the original payment method.
+NW-T0061,sms,0,customer,Can I move from Basic 100 to Fiber 500?
+NW-T0061,sms,1,agent,"Done, your plan is updated."
+NW-T0061,sms,2,customer,When does the new plan start?
+NW-T0061,sms,3,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0061,sms,4,customer,My account is NW-443290.
+NW-T0061,sms,5,agent,Upgrades are free and start next billing cycle.
+NW-T0061,sms,6,customer,"Yes, go ahead with the change."
+NW-T0061,sms,7,agent,Upgrades are free and start next billing cycle.
+NW-T0096,chat,0,customer,My internet is down.
+NW-T0096,chat,1,agent,A technician is booked.
+NW-T0096,chat,2,customer,Will I have to pay for the visit?
+NW-T0096,chat,3,agent,Let me check for outages in your area.
+NW-T0120,chat,0,customer,"It says my account is locked, what do I do?"
+NW-T0120,chat,1,agent,The account unlocks after 30 minutes.
+NW-T0120,chat,2,customer,OK I'll try the reset link.
+NW-T0120,chat,3,agent,The account unlocks after 30 minutes.
+NW-T0120,chat,4,customer,"Thanks, it worked."
+NW-T0120,chat,5,agent,You can reset it at northwind.example/reset.
+NW-T0080,sms,0,customer,"Internet has been out for two days, will I get a credit?"
+NW-T0080,sms,1,agent,I ran a line test and found a fault.
+NW-T0080,sms,2,customer,Will I get a credit?
+NW-T0080,sms,3,agent,I ran a line test and found a fault.
+NW-T0080,sms,4,customer,My ZIP code is 12026.
+NW-T0080,sms,5,agent,A technician is booked.
+NW-T0080,sms,6,customer,Will I have to pay for the visit?
+NW-T0080,sms,7,agent,A technician is booked.
+NW-T0161,voice,0,customer,How do I return my equipment after cancelling?
+NW-T0161,voice,1,agent,Please return the router within 30 days.
+NW-T0161,voice,2,customer,When does service stop?
+NW-T0161,voice,3,agent,I can help with that.
+NW-T0161,voice,4,customer,Account NW-745780.
+NW-T0161,voice,5,agent,A $150 fee applies within the 12-month term.
+NW-T0161,voice,6,customer,"OK, please cancel it."
+NW-T0161,voice,7,agent,I can help with that.
+NW-T0008,voice,0,customer,Why is my bill so high this month?
+NW-T0008,voice,1,agent,I've opened a dispute for you.
+NW-T0008,voice,2,customer,Will I get a late fee meanwhile?
+NW-T0008,voice,3,agent,I've opened a dispute for you.
+NW-T0008,voice,4,customer,"OK, please enroll me in autopay."
+NW-T0008,voice,5,agent,I've opened a dispute for you.
+NW-T0008,voice,6,customer,Can you open a dispute?
+NW-T0008,voice,7,agent,Let me look at your bill.
+NW-T0034,sms,0,customer,There's a charge on my invoice I don't recognise.
+NW-T0034,sms,1,agent,Let me look at your bill.
+NW-T0034,sms,2,customer,"OK, please enroll me in autopay."
+NW-T0034,sms,3,agent,I've opened a dispute for you.
+NW-T0194,chat,0,customer,Will my refund go back to my credit card?
+NW-T0194,chat,1,agent,Let me check that refund.
+NW-T0194,chat,2,customer,It was for $45.20.
+NW-T0194,chat,3,agent,Let me check that refund.
+NW-T0194,chat,4,customer,Account NW-691999.
+NW-T0194,chat,5,agent,Let me check that refund.
+NW-T0183,chat,0,customer,Can I get a refund for last month's charge?
+NW-T0183,chat,1,agent,It goes back to the original payment method.
+NW-T0183,chat,2,customer,Will it go to my card?
+NW-T0183,chat,3,agent,Refunds take 5-7 business days.
+NW-T0106,chat,0,customer,Can you send a technician? Internet is not working.
+NW-T0106,chat,1,agent,Let me check for outages in your area.
+NW-T0106,chat,2,customer,Please book a technician.
+NW-T0106,chat,3,agent,I ran a line test and found a fault.
+NW-T0106,chat,4,customer,My ZIP code is 30815.
+NW-T0106,chat,5,agent,Let me check for outages in your area.
+NW-T0106,chat,6,customer,Will I have to pay for the visit?
+NW-T0106,chat,7,agent,I ran a line test and found a fault.
+NW-T0178,voice,0,customer,Where is my refund?
+NW-T0178,voice,1,agent,Let me check that refund.
+NW-T0178,voice,2,customer,When will it arrive?
+NW-T0178,voice,3,agent,Let me check that refund.
+NW-T0067,chat,0,customer,Can I switch to the Fiber 500 plan?
+NW-T0067,chat,1,agent,Upgrades are free and start next billing cycle.
+NW-T0067,chat,2,customer,"Yes, go ahead with the change."
+NW-T0067,chat,3,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0067,chat,4,customer,When does the new plan start?
+NW-T0067,chat,5,agent,"Done, your plan is updated."
+NW-T0067,chat,6,customer,Is there a contract?
+NW-T0067,chat,7,agent,Upgrades are free and start next billing cycle.
+NW-T0079,chat,0,customer,Can you send a technician? Internet is not working.
+NW-T0079,chat,1,agent,I ran a line test and found a fault.
+NW-T0079,chat,2,customer,Will I have to pay for the visit?
+NW-T0079,chat,3,agent,I ran a line test and found a fault.
+NW-T0165,chat,0,customer,Cancel my internet service please.
+NW-T0165,chat,1,agent,Please return the router within 30 days.
+NW-T0165,chat,2,customer,"OK, please cancel it."
+NW-T0165,chat,3,agent,I can help with that.
+NW-T0130,email,0,customer,The reset code never arrived.
+NW-T0130,email,1,agent,The account unlocks after 30 minutes.
+NW-T0130,email,2,customer,How long until it unlocks?
+NW-T0130,email,3,agent,The account unlocks after 30 minutes.
+NW-T0130,email,4,customer,"Thanks, it worked."
+NW-T0130,email,5,agent,The account unlocks after 30 minutes.
+NW-T0130,email,6,customer,OK I'll try the reset link.
+NW-T0130,email,7,agent,The code is valid for 10 minutes.
+NW-T0143,email,0,customer,How long is the password reset code valid?
+NW-T0143,email,1,agent,You can reset it at northwind.example/reset.
+NW-T0143,email,2,customer,I didn't get the SMS code.
+NW-T0143,email,3,agent,You can reset it at northwind.example/reset.
+NW-T0143,email,4,customer,How long until it unlocks?
+NW-T0143,email,5,agent,The account unlocks after 30 minutes.
+NW-T0059,chat,0,customer,"I need more speed, what are my upgrade options?"
+NW-T0059,chat,1,agent,"Done, your plan is updated."
+NW-T0059,chat,2,customer,My account is NW-974712.
+NW-T0059,chat,3,agent,"Our plans are Basic 100, Fiber 500 and Fiber Gig."
+NW-T0213,chat,0,customer,Can I reach someone at night?
+NW-T0213,chat,1,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0213,chat,2,customer,And email support?
+NW-T0213,chat,3,agent,Phone support is open 8 AM to 10 PM ET.
+NW-T0132,chat,0,customer,I can't sign in to the app.
+NW-T0132,chat,1,agent,The account unlocks after 30 minutes.
+NW-T0132,chat,2,customer,"Thanks, it worked."
+NW-T0132,chat,3,agent,The account unlocks after 30 minutes.
+NW-T0132,chat,4,customer,I didn't get the SMS code.
+NW-T0132,chat,5,agent,You can reset it at northwind.example/reset.
+NW-T0132,chat,6,customer,How long until it unlocks?
+NW-T0132,chat,7,agent,The code is valid for 10 minutes.
+NW-T0012,chat,0,customer,When is my bill due and can I get a discount for autopay?
+NW-T0012,chat,1,agent,I can see a router rental and a late payment fee.
+NW-T0012,chat,2,customer,My account number is NW-401690.
+NW-T0012,chat,3,agent,I can see a router rental and a late payment fee.
+NW-T0012,chat,4,customer,Will I get a late fee meanwhile?
+NW-T0012,chat,5,agent,Let me look at your bill.
+NW-T0126,email,0,customer,I forgot my password.
+NW-T0126,email,1,agent,The code is valid for 10 minutes.
+NW-T0126,email,2,customer,"Thanks, it worked."
+NW-T0126,email,3,agent,You can reset it at northwind.example/reset.
+NW-T0114,sms,0,customer,Is the network down near ZIP 30301?
+NW-T0114,sms,1,agent,Let me check for outages in your area.
+NW-T0114,sms,2,customer,Will I have to pay for the visit?
+NW-T0114,sms,3,agent,Let me check for outages in your area.
+NW-T0044,sms,0,customer,I want to change my plan to something cheaper.
+NW-T0044,sms,1,agent,Upgrades are free and start next billing cycle.
+NW-T0044,sms,2,customer,Is there a contract?
+NW-T0044,sms,3,agent,Upgrades are free and start next billing cycle.
+NW-T0044,sms,4,customer,When does the new plan start?
+NW-T0044,sms,5,agent,Upgrades are free and start next billing cycle.
+NW-T0044,sms,6,customer,My account is NW-218309.
+NW-T0044,sms,7,agent,"Done, your plan is updated."
+NW-T0193,email,0,customer,"I returned my modem, when do I get my money back?"
+NW-T0193,email,1,agent,Refunds take 5-7 business days.
+NW-T0193,email,2,customer,It was for $45.20.
+NW-T0193,email,3,agent,It goes back to the original payment method.
+NW-T0193,email,4,customer,Account NW-694743.
+NW-T0193,email,5,agent,Let me check that refund.
+NW-T0152,chat,0,customer,I want to terminate my contract.
+NW-T0152,chat,1,agent,Please return the router within 30 days.
+NW-T0152,chat,2,customer,When does service stop?
+NW-T0152,chat,3,agent,A $150 fee applies within the 12-month term.
+NW-T0152,chat,4,customer,Account NW-568765.
+NW-T0152,chat,5,agent,A $150 fee applies within the 12-month term.
+NW-T0152,chat,6,customer,I've been with you 8 months.
+NW-T0152,chat,7,agent,Please return the router within 30 days.
+NW-T0196,chat,0,customer,Refund status for my account please.
+NW-T0196,chat,1,agent,It goes back to the original payment method.
+NW-T0196,chat,2,customer,It was for $45.20.
+NW-T0196,chat,3,agent,Refunds take 5-7 business days.
+NW-T0128,email,0,customer,"It says my account is locked, what do I do?"
+NW-T0128,email,1,agent,The code is valid for 10 minutes.
+NW-T0128,email,2,customer,OK I'll try the reset link.
+NW-T0128,email,3,agent,You can reset it at northwind.example/reset.
+NW-T0128,email,4,customer,"Thanks, it worked."
+NW-T0128,email,5,agent,You can reset it at northwind.example/reset.

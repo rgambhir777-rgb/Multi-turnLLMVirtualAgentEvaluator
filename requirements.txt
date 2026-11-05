@@ -1,0 +1,18 @@
+# AgentProof runtime dependencies (pinned; all ship pre-built wheels for Windows/macOS/Linux, Python 3.11-3.13)
+fastapi==0.162.0
+starlette==1.10.0
+uvicorn==0.54.0
+SQLAlchemy==2.1.8
+pydantic==2.14.2
+python-dotenv==1.2.4
+python-multipart==0.0.33
+httpx==0.28.1
+anthropic==2.4.0
+scikit-learn==1.9.1
+numpy==2.5.4
+scipy==1.18.1
+RapidFuzz==3.14.6
+reportlab==5.1.0
+Jinja2==3.1.6
+# tests
+pytest==9.2.0

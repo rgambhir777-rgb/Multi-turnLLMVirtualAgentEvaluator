@@ -1,0 +1,6586 @@
+[
+ {
+  "id": "NW-T0137",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I need to change my login password."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0036",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you explain the router rental charge on my bill?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0141",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My account is locked after too many attempts."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0076",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to upgrade my internet plan."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-273597."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0029",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to dispute a charge on my last bill."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-707924."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0124",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I can't sign in to the app."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0135",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Sign in keeps failing on the website."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0172",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Cancel my internet service please."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0160",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What happens to the router if I cancel?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-653694."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0117",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is the network down near ZIP 30301?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0071",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What faster plans do you have?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0050",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I switch to the Fiber 500 plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-749144."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0030",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What is this $8 fee on my statement?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0065",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to upgrade my internet plan."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-234336."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0062",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What faster plans do you have?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-126392."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0214",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is live chat available 24/7?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is chat faster?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0148",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "It says my account is locked, what do I do?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0010",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you explain the router rental charge on my bill?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-590018."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0041",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I think I was double charged this month."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0003",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I was charged a late fee but I paid on time."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-312831."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0020",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "There's a charge on my invoice I don't recognise."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0170",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to cancel my service."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0009",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to dispute a charge on my last bill."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-110350."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0091",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Internet has been out for two days, will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 94349."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0215",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I reach someone at night?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is chat faster?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0144",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Sign in keeps failing on the website."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0216",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is there a support line on Sundays?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is chat faster?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0075",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What faster plans do you have?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0102",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I check the outage status?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0210",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What hours is your call centre open?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is chat faster?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0040",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "When is my bill due and can I get a discount for autopay?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-761746."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0086",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My wifi works but there's no internet connection."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 85245."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0110",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I check the outage status?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0185",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I was promised a refund, what's the status?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will it go to my card?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0154",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Please close my account."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0155",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I'd like to cancel, my contract is almost over."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0055",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I switch to the Fiber 500 plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-408057."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0188",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I was promised a refund, what's the status?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-781814."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0184",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My refund hasn't arrived yet."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will it go to my card?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0187",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "It's been a week and no refund."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0204",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I contact Northwind support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   },
+   {
+    "speaker": "customer",
+    "text": "And email support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0090",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you send a technician? Internet is not working."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 79940."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0140",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I need to change my login password."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0033",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Why is my bill so high this month?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-658025."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0025",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I was charged a late fee but I paid on time."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-825632."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0053",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I move from Basic 100 to Fiber 500?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0167",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I'd like to cancel, my contract is almost over."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0007",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Why is my bill so high this month?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-222149."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0118",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My internet is down."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 63610."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0208",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What hours is your call centre open?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is chat faster?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0175",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I was promised a refund, what's the status?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0115",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Internet has been out for two days, will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0001",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My invoice is higher than usual, can you check it?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0131",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How long is the password reset code valid?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0129",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I forgot my password."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0134",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I reset my password?"
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0164",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How much is the early termination fee?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0042",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to dispute a charge on my last bill."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0189",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I was promised a refund, what's the status?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0054",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is there a fee to change my plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0016",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "When is my bill due and can I get a discount for autopay?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-108053."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0057",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to change my plan to something cheaper."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-195579."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0149",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to terminate my contract."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-869321."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0018",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I think I was double charged this month."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-156699."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0203",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I reach someone at night?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0199",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How long do I have to request a refund?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0083",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "The internet keeps dropping out."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0101",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "The internet keeps dropping out."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0173",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I cancel without paying a fee?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0015",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What is this $8 fee on my statement?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0022",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My invoice is higher than usual, can you check it?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0176",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Refund status for my account please."
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0217",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is live chat available 24/7?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "And email support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0017",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My invoice is higher than usual, can you check it?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0028",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I think I was double charged this month."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-923501."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0127",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "It says my account is locked, what do I do?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0056",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to change my plan to something cheaper."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0116",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is the network down near ZIP 30301?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0169",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to cancel my service."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0177",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Refund status for my account please."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will it go to my card?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-173162."
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0104",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My wifi works but there's no internet connection."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 91014."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0038",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you explain the router rental charge on my bill?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0024",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I think I was double charged this month."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0052",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How much is Fiber Gig per month?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0021",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you explain the router rental charge on my bill?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0094",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I check the outage status?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0074",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I switch to the Fiber 500 plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0162",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I'd like to cancel, my contract is almost over."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-974003."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0112",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I check the outage status?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 46058."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0182",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My refund hasn't arrived yet."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0085",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I check the outage status?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0163",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Please close my account."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0058",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is there a fee to change my plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-922911."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0138",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "It says my account is locked, what do I do?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0119",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I can't sign in to the app."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0013",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to dispute a charge on my last bill."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-724455."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0023",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My bill went up by $10, what is that charge for?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0192",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My refund hasn't arrived yet."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will it go to my card?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0006",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My bill went up by $10, what is that charge for?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0209",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I contact Northwind support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0032",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My bill went up by $10, what is that charge for?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-139290."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0037",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I think I was double charged this month."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0064",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What faster plans do you have?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-329566."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0122",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I can't log in to my online account."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0123",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I forgot my password."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0157",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to terminate my contract."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0198",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I was promised a refund, what's the status?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0201",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What time does phone support close?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "And email support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0011",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I think I was double charged this month."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-877977."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0098",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My internet is down."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0049",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I'd like to downgrade to a cheaper plan."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0125",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How long is the password reset code valid?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0043",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I switch to the Fiber 500 plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0195",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Where is my refund?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will it go to my card?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0206",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "When can I call customer support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is chat faster?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0078",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What faster plans do you have?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0026",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you explain the router rental charge on my bill?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0109",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "The internet keeps dropping out."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 25743."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0095",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My internet is down."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0105",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "The internet keeps dropping out."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0082",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My connection is offline again."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0092",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My internet is down."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0004",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you explain the router rental charge on my bill?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-818296."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0202",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What time does phone support close?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is chat faster?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "And email support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0113",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Internet has been out for two days, will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0220",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "When can I call customer support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "And email support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0093",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My connection is offline again."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0147",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I forgot my password."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0153",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I'd like to cancel, my contract is almost over."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0150",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I'm moving and need to cancel my internet."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0207",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is live chat available 24/7?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0087",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Internet has been out for two days, will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 64400."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0060",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I move from Basic 100 to Fiber 500?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0211",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What time does phone support close?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0108",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "The internet keeps dropping out."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 81237."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0212",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "When can I call customer support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0181",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How long do I have to request a refund?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will it go to my card?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0156",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How much is the early termination fee?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-822281."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0046",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is there a fee to change my plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-954396."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0100",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "The internet keeps dropping out."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0159",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to cancel my service."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-429647."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0186",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "It's been a week and no refund."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-949232."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0218",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Are you open on weekends?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is chat faster?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0063",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to upgrade my internet plan."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-729624."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0002",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My invoice is higher than usual, can you check it?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0068",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to change my plan to something cheaper."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0088",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you send a technician? Internet is not working."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0142",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I can't sign in to the app."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0197",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My refund hasn't arrived yet."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0072",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I move from Basic 100 to Fiber 500?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-569751."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0045",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to change my plan to something cheaper."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0145",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My account is locked after too many attempts."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0027",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to dispute a charge on my last bill."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0069",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I switch to the Fiber 500 plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-186641."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0107",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you send a technician? Internet is not working."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 72401."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0191",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I get a refund for last month's charge?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-553328."
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0099",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Internet has been out for two days, will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0073",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is there a fee to change my plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0166",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Cancel my internet service please."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0048",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is there a fee to change my plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-637709."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0200",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How long do I have to request a refund?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-897764."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0066",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What speeds do your internet plans offer?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0089",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Internet has been out for two days, will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 78915."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0081",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is the network down near ZIP 30301?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 54670."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0133",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "The reset code never arrived."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0219",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is there a support line on Sundays?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is chat faster?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Emails are answered within 24 hours."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0158",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What happens to the router if I cancel?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-193058."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0039",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "What is this $8 fee on my statement?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0205",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I reach someone at night?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks."
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "And email support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, good to know."
+   },
+   {
+    "speaker": "agent",
+    "text": "Chat is available 24/7."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0103",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My wifi works but there's no internet connection."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 42191."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0097",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "The internet keeps dropping out."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0035",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My bill went up by $10, what is that charge for?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-677570."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0151",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I return my equipment after cancelling?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-616985."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0139",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I can't log in to my online account."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0070",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to change my plan to something cheaper."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-905048."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0171",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How much is the early termination fee?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0084",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My wifi works but there's no internet connection."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0014",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Why is my bill so high this month?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0005",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My bill went up by $10, what is that charge for?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0180",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I returned my modem, when do I get my money back?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-334424."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0168",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How much is the early termination fee?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0174",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Please close my account."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0146",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I reset my password?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0031",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I think I was double charged this month."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0111",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My internet is down."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0121",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I can't sign in to the app."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0019",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "There's a charge on my invoice I don't recognise."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-748876."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0136",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "It says my account is locked, what do I do?"
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0051",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I move from Basic 100 to Fiber 500?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0190",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Where is my refund?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-711506."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0077",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to upgrade my internet plan."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-114473."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0047",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I move from Basic 100 to Fiber 500?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0179",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "It's been a week and no refund."
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-860388."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0061",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I move from Basic 100 to Fiber 500?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-443290."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0096",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "My internet is down."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0120",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "It says my account is locked, what do I do?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0080",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Internet has been out for two days, will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a credit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 12026."
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A technician is booked."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0161",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How do I return my equipment after cancelling?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-745780."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0008",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Why is my bill so high this month?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   },
+   {
+    "speaker": "customer",
+    "text": "Can you open a dispute?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0034",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "There's a charge on my invoice I don't recognise."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please enroll me in autopay."
+   },
+   {
+    "speaker": "agent",
+    "text": "I've opened a dispute for you."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0194",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Will my refund go back to my credit card?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-691999."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0183",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I get a refund for last month's charge?"
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will it go to my card?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0106",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you send a technician? Internet is not working."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Please book a technician."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "My ZIP code is 30815."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0178",
+  "channel": "voice",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Where is my refund?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   },
+   {
+    "speaker": "customer",
+    "text": "When will it arrive?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0067",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I switch to the Fiber 500 plan?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Yes, go ahead with the change."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0079",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can you send a technician? Internet is not working."
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I ran a line test and found a fault."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0165",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Cancel my internet service please."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK, please cancel it."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can help with that."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0130",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "The reset code never arrived."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0143",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "How long is the password reset code valid?"
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0059",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I need more speed, what are my upgrade options?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-974712."
+   },
+   {
+    "speaker": "agent",
+    "text": "Our plans are Basic 100, Fiber 500 and Fiber Gig."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0213",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Can I reach someone at night?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   },
+   {
+    "speaker": "customer",
+    "text": "And email support?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Phone support is open 8 AM to 10 PM ET."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0132",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I can't sign in to the app."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "The account unlocks after 30 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "I didn't get the SMS code."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "How long until it unlocks?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0012",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "When is my bill due and can I get a discount for autopay?"
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account number is NW-401690."
+   },
+   {
+    "speaker": "agent",
+    "text": "I can see a router rental and a late payment fee."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I get a late fee meanwhile?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me look at your bill."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0126",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I forgot my password."
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0114",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Is the network down near ZIP 30301?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   },
+   {
+    "speaker": "customer",
+    "text": "Will I have to pay for the visit?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check for outages in your area."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0044",
+  "channel": "sms",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to change my plan to something cheaper."
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "Is there a contract?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does the new plan start?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Upgrades are free and start next billing cycle."
+   },
+   {
+    "speaker": "customer",
+    "text": "My account is NW-218309."
+   },
+   {
+    "speaker": "agent",
+    "text": "Done, your plan is updated."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0193",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I returned my modem, when do I get my money back?"
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-694743."
+   },
+   {
+    "speaker": "agent",
+    "text": "Let me check that refund."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0152",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "I want to terminate my contract."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   },
+   {
+    "speaker": "customer",
+    "text": "When does service stop?"
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "Account NW-568765."
+   },
+   {
+    "speaker": "agent",
+    "text": "A $150 fee applies within the 12-month term."
+   },
+   {
+    "speaker": "customer",
+    "text": "I've been with you 8 months."
+   },
+   {
+    "speaker": "agent",
+    "text": "Please return the router within 30 days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0196",
+  "channel": "chat",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "Refund status for my account please."
+   },
+   {
+    "speaker": "agent",
+    "text": "It goes back to the original payment method."
+   },
+   {
+    "speaker": "customer",
+    "text": "It was for $45.20."
+   },
+   {
+    "speaker": "agent",
+    "text": "Refunds take 5-7 business days."
+   }
+  ]
+ },
+ {
+  "id": "NW-T0128",
+  "channel": "email",
+  "turns": [
+   {
+    "speaker": "customer",
+    "text": "It says my account is locked, what do I do?"
+   },
+   {
+    "speaker": "agent",
+    "text": "The code is valid for 10 minutes."
+   },
+   {
+    "speaker": "customer",
+    "text": "OK I'll try the reset link."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   },
+   {
+    "speaker": "customer",
+    "text": "Thanks, it worked."
+   },
+   {
+    "speaker": "agent",
+    "text": "You can reset it at northwind.example/reset."
+   }
+  ]
+ }
+]

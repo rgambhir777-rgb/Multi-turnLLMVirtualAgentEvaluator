@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { -webkit-font-smoothing: antialiased; }
+body { @apply text-slate-800; }
+.recharts-cartesian-grid line { stroke: #eef0f3; }
+.recharts-text { fill: #64748b; font-size: 12px; }
+.recharts-tooltip-wrapper { outline: none; }
